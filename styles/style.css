@@ -63,7 +63,7 @@ nav ul a {
 /* Header related styles */
 .header {
     background-color: #FFF8F3;
-    background-image: url(../images/header_bg.png);
+    background-image: url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -116,7 +116,7 @@ main section {
     margin: 130px 0;
 }
 
-.section-titile {
+.section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -150,7 +150,7 @@ main section {
     padding: 20px 150px;
 }
 
-/* Skilss related styles */
+/* Skills related styles */
 .skill-container {
     display: flex;
     gap: 24px;
